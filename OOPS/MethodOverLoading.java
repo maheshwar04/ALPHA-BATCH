@@ -1,4 +1,3 @@
-package OOPS;
 public class MethodOverLoading {
     public static void main(String[] args) {
         calculator calc=new calculator();

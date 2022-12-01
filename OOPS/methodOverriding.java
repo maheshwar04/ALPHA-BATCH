@@ -1,5 +1,3 @@
-package OOPS;
-
 public class methodOverriding {
     public static void main(String[] args) {
         deer d1=new deer();

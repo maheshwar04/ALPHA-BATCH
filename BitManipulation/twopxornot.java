@@ -5,6 +5,6 @@ public class twopxornot {
         return (n & (n-1))==0;
     }
     public static void main(String[] args) {
-        System.out.println(twoPower(15));
+        System.out.println(twoPower(16));
     }
 }
